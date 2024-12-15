@@ -12,4 +12,4 @@ Currently working on an exciting React project, enhancing my skills and explorin
 Master React and other key frontend technologies to land a role in frontend development.
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SimaThapa&show_icons=true&hide_title=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SimaThapa&show_icons=true&theme=redical&hide_title=true)
