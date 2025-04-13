@@ -4,7 +4,7 @@ A **passionate Frontend Developer** with a love for creating dynamic and user-fr
 
 ---
 
-## 🧑‍💻 **About Me**
+## **About Me**
 - 🎓 21-year-old student balancing college studies and hands-on work in tech.
 - 💡 Love solving complex problems and turning ideas into reality through code.
 - 🔨 Currently working on exciting React projects and diving into modern frontend frameworks.
